@@ -194,4 +194,4 @@ Each cluster represents a unique customer segment such as:
 
 ---
 
-Would you like me to now generate the **Concise GitHub README version** (1-page summary style)?
+
